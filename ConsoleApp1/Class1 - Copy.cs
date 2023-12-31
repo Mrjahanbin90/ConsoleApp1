@@ -12,8 +12,11 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("gOOD");
+            Console.WriteLine("Hello3, World!");
+            Console.WriteLine("gOOD3");
             Console.ReadLine();
             Console.WriteLine("MIO");
+            Console.WriteLine("MIO3");
 
         }
     }

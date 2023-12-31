@@ -10,9 +10,12 @@ namespace ConsoleApp1
     {
         public void Go()
         {
+            Console.WriteLine("Hello3, World!");
+            Console.WriteLine("gOOD3");
             Console.WriteLine("Hello, World!");
             Console.WriteLine("gOOD");
             Console.ReadLine();
+            Console.WriteLine("MIO3");
             Console.WriteLine("MIO");
 
         }
